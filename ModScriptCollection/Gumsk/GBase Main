@@ -16,7 +16,7 @@ StartShelterMax = 1000				-- Original value "1000"
 
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-["MOD_FILENAME"]	= "GBB 226a Boundary Large 2.pak",
+["MOD_FILENAME"]	= "GBase 226a Boundary Large 2.pak",
 ["MOD_DESCRIPTION"]	= "Base boundary and wire length extensions",
 ["MOD_AUTHOR"]		= "Gumsk",
 ["NMS_VERSION"]		= "2.26",
