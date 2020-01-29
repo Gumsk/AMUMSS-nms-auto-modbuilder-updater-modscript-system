@@ -632,8 +632,8 @@
   
 NMS_MOD_DEFINITION_CONTAINER = 
 {
-["MOD_FILENAME"]	= "GPG 226a Superman.pak",
-["MOD_DESCRIPTION"]	= "Player Globals - Superman Mode",
+["MOD_FILENAME"]	= "GPG 226a Homelander.pak",
+["MOD_DESCRIPTION"]	= "Player Globals - Homelander Mode",
 ["MOD_AUTHOR"]		= "Gumsk",
 ["NMS_VERSION"]		= "2.26",
 ["MODIFICATIONS"]	=
